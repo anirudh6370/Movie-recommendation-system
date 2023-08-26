@@ -31,7 +31,6 @@ Follow these steps to get started with the Movie Recommendation System:
    ```bash
    https://github.com/anirudh6370/Movie-recommendation-system.git
  2. Create a config.py Template:
-    In your project's repository, create a template config.py file that users can copy and fill in with their own API key. This template will serve as a guide for users to set up their configuration.
     ```bash
     # config.py
     # TMDB API Key
